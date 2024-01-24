@@ -1,8 +1,7 @@
-# React + Vite
+# Crud (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Hello, this is a typical CRUD (Create, Read, Update, Delete) example covering all basic functions. The front-end was developed using React and styled with Tailwind, while the back-end was built with Python and Django.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link to back-end repository :
+https://github.com/Nemesis1019/Crud_back
